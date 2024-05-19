@@ -6,3 +6,5 @@ Unreal Engine 5 default starter kit for player and weapon models.
 Vampire model from Mixamo.
 
 Made in Unreal Engine 5.2.1
+
+Link to itch.io project page provided.
